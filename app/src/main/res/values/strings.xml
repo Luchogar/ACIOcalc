@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Acio Calculator</string>
+    <string name="intro">Ingresa 2 números y elije una opción</string>
+    <string name="numero1">Número 1</string>
+    <string name="numero2">Número 2</string>
+    <string name="resul">Resultado</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Multiplicación</string>
+    <string name="divi">División</string>
+</resources>
